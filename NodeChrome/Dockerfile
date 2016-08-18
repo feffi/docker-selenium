@@ -1,5 +1,5 @@
-FROM feffi/node-base:2.53.1
-MAINTAINER Selenium <selenium-developers@googlegroups.com>
+FROM feffi/node-base
+MAINTAINER Selenium <feffi@feffi.org>
 
 USER root
 

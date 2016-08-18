@@ -1,5 +1,5 @@
-FROM feffi/base:2.53.1
-MAINTAINER Selenium <selenium-developers@googlegroups.com>
+FROM feffi/base
+MAINTAINER Selenium <feffi@feffi.org>
 
 #========================
 # Selenium Configuration
